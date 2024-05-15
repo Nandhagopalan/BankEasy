@@ -2,7 +2,7 @@
 name = "docai"
 version = "0.1.0"
 description = ""
-authors = ["enandhag <enandhag@ford.com>"]
+authors = ["Nandha"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
